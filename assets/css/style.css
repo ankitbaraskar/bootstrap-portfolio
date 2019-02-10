@@ -1,0 +1,79 @@
+main{
+    margin-top: 50px;
+}
+
+.container{
+    max-width: 960px;
+}
+.navbar{
+    padding: 0rem 0rem;
+    height: 70px;
+}
+.navbar-right{
+    float: right;
+    margin-left: auto;
+    margin-right:0;
+}
+.navbar-brand{
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+.btn-info {
+    background-color: #4aaaa5;
+    border-color: #4aaaa5;
+}
+.card{
+    float: left;
+}
+#sectionbg{
+    background-image: url(../images/qbkls.png);
+    position: fixed;
+    width: 1506px;
+}
+#mainbg{
+    opacity: 1;
+    background-color: white;
+}
+#hrmain{
+    border-width: 3px;
+}
+#paintankit{
+    background-color: #4aaaa5;
+    margin-bottom: 0px;
+    height: 70px;
+    width: 300px;
+    text-align: center;
+    line-height: 1.5;
+    color: white;
+}
+#fontaboutme{
+    color: #4aaaa5;
+}
+#imgfloat{
+    float: left;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+#lineheight{
+    line-height: 30px;
+}
+#hrfooter{
+    background-color: #4aaaa5;
+    position: absolute;
+    margin-left: -15px;
+    height: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    width: 1506px;
+}
+#foot{
+    background-color: #666666;
+    padding-top: 20px;
+    margin-left: -15px;
+    width: 1506px;
+    height: 100px;
+    text-align: center;
+    line-height: 4;
+    color: white;
+}
